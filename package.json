@@ -1,0 +1,11 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Igor Nadj <igor@silverstripe.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.10.0",
+    "react": "^15.5.4"
+  }
+}
